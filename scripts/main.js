@@ -75,4 +75,23 @@ Hooks.once('diceSoNiceReady', dice3d => {
         colorset: 'teeth-base',
     });
 
+    dice3d.addSystem({
+        id: "passThePliers", name: "Pass the Pliers",
+    });
+
+    dice3d.addDicePreset({
+        type: 'd6',
+        labels: [
+            'modules/mouthful-of-teeth-dice/textures/pass_the_pliers/ptp_1.webp',
+            'modules/mouthful-of-teeth-dice/textures/pass_the_pliers/ptp_2.webp',
+            'modules/mouthful-of-teeth-dice/textures/pass_the_pliers/ptp_3.webp',
+            'modules/mouthful-of-teeth-dice/textures/pass_the_pliers/ptp_4.webp',
+            'modules/mouthful-of-teeth-dice/textures/pass_the_pliers/ptp_5.webp',
+            'modules/mouthful-of-teeth-dice/textures/pass_the_pliers/ptp_6.webp',
+        ],
+        system: 'passThePliers',
+        colorset: 'teeth-base',
+    });
+
+
 });
