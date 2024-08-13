@@ -41,7 +41,7 @@ Hooks.once('diceSoNiceReady', dice3d => {
         outline: 'none',
         texture: 'none',
         material: 'metal',
-    }, 'preferred');
+    });
 
     dice3d.addDicePreset({
         type: 'd6',
