@@ -3,16 +3,7 @@ An add-on module fo Dice So Nice, with four themes for [TEETH](https://teethrpg.
 
 The Teeth dice are by Marsh Davies, one of the creators of TEETH.  The other three are me futzing with his artwork in the GIMP.  There's a bit of DNA from the [Dice More Nice](https://github.com/LyncsCwtsh/fvtt-module-nice-more-dice) Grifter dice in mine.
 
-## Teeth
-![Teeth](./images/teeth.webp?raw=true)
-
-## Grifter's Grin 
-![Grifter's Grin](./images/gs.webp?raw=true)
-
-## Hunter's Smile
-![Hunter's Smile](./images/hg.webp?raw=true)
-
-## Pass the Pliers
-![Pass the Pliers](./images/ptp.webp?raw=true)
+## Themes
+![gallery](./images/mouthful.webp?raw=true)
 
 Mouthful of TEETH theme package for Dice so Nice is a module for Foundry VTT by snowkeep and is licensed under [GNU GENERAL PUBLIC LICENSE](./LICENSE.md)
