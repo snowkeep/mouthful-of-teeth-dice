@@ -1,5 +1,4 @@
 {
-  "name": "mouthful-of-teeth-dice",
   "id": "mouthful-of-teeth-dice",
   "title": "Mouthful of TEETH for Dice-so-Nice",
   "description": "An add-on module for Dice So Nice, with themes for TEETH d6 dice.  Credit for the art goes to Marsh Davies.",
@@ -12,10 +11,9 @@
   "version": "1.0.0",
   "compatibility": {
     "minimum": "10",
-    "verified": "12.330"
+    "verified": "13.333"
   },
   "readme": "https://github.com/snowkeep/mouthful-of-teeth-dice/blob/main/README.md",
-  "changeLog": "https://github.com/snowkeep/mouthful-of-teeth-dice/blob/main/ChangeLog.md",
   "esmodules": [
     "scripts/main.js"
   ],
